@@ -43,7 +43,7 @@ while (!isSunk) {
             }else{
             if ((currentGuess) === location1 || (currentGuess) === location2 || (currentGuess) === location3) {
                 guessesArray.push(currentGuess);
-                alert("Ship at location " + currentGuess + " was sunk! Your correct guesses so far : Ships @ positions " + guessesArray);
+                alert("HIT! Ship at location " + currentGuess + " was sunk! Your correct guesses so far : Ships @ positions " + guessesArray);
                 hits = hits + 1;
                 guesses = guesses + 1;
 
@@ -53,7 +53,7 @@ while (!isSunk) {
                 }
             } else {
                 guesses = guesses + 1;
-                alert("OOPS! You missed! You've guessed " + guesses + " times so far");
+                alert("MISS! You've guessed " + guesses + " times so far");
             }}
 
 
