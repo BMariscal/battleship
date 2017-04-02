@@ -57,7 +57,7 @@ while (!isSunk) {
             }}
 
 
-        } else if (!currentGuess) { /*!currentGuess checks for falsy; if null,0, undefined, NaN*/
+        } else if (!currentGuess) { //!currentGuess checks for falsy; if null,0, undefined, NaN//
 
             alert("End of game, thanks for playing!");
             break;
