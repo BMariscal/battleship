@@ -4,5 +4,5 @@ Javascript battleship game: in progress
 Goals: Learn/practice javascript syntax and use javascript in the browser. 
 
 
-  * Basic battleship game
+  * Simple battleship game
   
