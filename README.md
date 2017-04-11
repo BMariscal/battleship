@@ -1,5 +1,5 @@
 # Battleship
-Javascript battleship game: in progress
+Javascript battleship game: 
 
 Goals: Learn/practice javascript syntax and use javascript in the browser. 
 
