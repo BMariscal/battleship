@@ -180,8 +180,6 @@ function handleKeyPress(e) {
 }
 
 
-
-
 window.onload = init;
 
 function init() {
